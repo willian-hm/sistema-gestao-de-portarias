@@ -37,21 +37,17 @@ Além de atender às necessidades administrativas do IFC Campus Videira, o siste
 
 ### Frontend
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript
 
 ### Backend
 
 - Node.js
-- Express
-- TypeScript
 
 ### Banco de Dados
 
 - PostgreSQL
-- Prisma ORM
 
 ### Infraestrutura
 
