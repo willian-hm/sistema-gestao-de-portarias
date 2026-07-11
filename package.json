@@ -1,0 +1,30 @@
+{
+  "name": "sistema-gestao-de-portarias",
+  "version": "1.0.0",
+  "description": "O **Sistema de Gestão de Portarias (SGP)** é uma aplicação web desenvolvida como parte de um projeto de pesquisa do **Instituto Federal Catarinense – Campus Videira**, com o objetivo de modernizar, automatizar e centralizar o gerenciamento de portarias institucionais.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willian-hm/sistema-gestao-de-portarias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/willian-hm/sistema-gestao-de-portarias/issues"
+  },
+  "homepage": "https://github.com/willian-hm/sistema-gestao-de-portarias#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.22.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

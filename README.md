@@ -44,6 +44,7 @@ Além de atender às necessidades administrativas do IFC Campus Videira, o siste
 ### Backend
 
 - Node.js
+- Express
 
 ### Banco de Dados
 
